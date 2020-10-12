@@ -44,6 +44,8 @@ exported by `k_means.py` and `logger.py`
 
 ---
 
+## Examples
+
 The true class:
 ![trueclass](_result_K-means_4/true_class.png)
 
