@@ -1,0 +1,8 @@
++++++ Experimental Setting +++++
+
+< Environmental Setting >
+trials      : 10
+epoch       : 100
+use column  : [0, 3]
+use number  : 4
+k           : 3
