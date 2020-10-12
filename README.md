@@ -16,7 +16,7 @@ This program requires modules below:
 
 Here, ***iris dataset*** in *scikit-learn* is used as an example
 
-> TASK: **to make culusters of the kinds of iris** (***setosa, versicolour, virginica***) **using information** (***sepal width, sepal length***) **or** (***sepal width, sepal length, petal width, petal length***) 
+> TASK: **to make clusters of the kinds of iris** (***setosa, versicolour, virginica***) **using information** (***sepal width, sepal length***) **or** (***sepal width, sepal length, petal width, petal length***) 
 
 
 ## Python files
