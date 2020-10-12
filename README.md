@@ -1,6 +1,6 @@
 # K-means
 
-One of the clustering method written with Python 3
+One of the clustering methods written with Python 3
 
 ---
 
@@ -11,7 +11,7 @@ This program requires modules below:
 - numpy
 - pandas
 - matplotlib
-- sklearn
+- sklearn (scikit-learn)
 - joblib (if you want to parallel ***trials***)
 
 Here, ***iris dataset*** in *scikit-learn* is used as an example
@@ -30,7 +30,7 @@ Here, ***iris dataset*** in *scikit-learn* is used as an example
 
 exported by `k_means.py` and `logger.py`
 
-| Name                          | File/Folder   | Explanation                                           |
+| Name                          | Folder/File   | Explanation                                           |
 | --                            | --            | --                                                    |
 | `trial`                       | Folder        | where result of each trial stored                     |
 | `epoch.csv`                   | File          | the number of costed epochs to converge in each trial |
