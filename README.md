@@ -1,6 +1,6 @@
 # K-means
 
-One of the clustering methods written with Python 3
+One of the clustering methods written in Python 3
 
 ---
 
